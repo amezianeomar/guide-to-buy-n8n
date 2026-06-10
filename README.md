@@ -1,26 +1,24 @@
-# 💳 N8n Workspace Upgrade Guide
+# 💳 Guide de Mise à Niveau de l'Espace de Travail n8n
 
-Here is the secure procedure to activate the automation server that will handle our daily review requests. The technical environment is fully configured under the agency's account. To ensure complete security and privacy, you can process the payment directly from your own device using your personal PayPal.
+Voici la procédure sécurisée pour activer le serveur d'automatisation qui gérera nos demandes d'avis quotidiennes. L'environnement technique est entièrement configuré sous le compte de l'agence. Pour garantir une sécurité et une confidentialité totales, vous pouvez effectuer le paiement directement depuis votre propre appareil en utilisant votre compte PayPal personnel.
 
-### 🛠️ Step 1: Access the Workspace
-1. Open your web browser on your computer.
-2. Go to the official cloud platform: **[app.n8n.cloud](https://app.n8n.cloud/)**
-3. Log in using the agency's official credentials:
-   * **Email:** `xauentours@gmail.com`
-   * **Password:** `salhiXauenTours@2026`
+### 🛠️ Étape 1 : Accéder à l'Espace de Travail
+1. Ouvrez votre navigateur web sur votre ordinateur.
+2. Allez sur la plateforme cloud officielle : **[app.n8n.cloud](https://app.n8n.cloud/)**
+3. Connectez-vous en utilisant les identifiants officiels de l'agence :
+   * **Email :** `xauentours@gmail.com`
+   * **Mot de passe :** `salhiXauenTours@2026`
 
-### ⚙️ Step 2: Navigate to Billing
-1. Once logged in, look at the left-hand sidebar menu.
-2. Click on **Settings** (the gear icon).
-3. Open the **Usage & Billing** tab.
+### ⚙️ Étape 2 : Naviguer vers la Facturation
+1. Une fois connecté, regardez le menu latéral sur la gauche.
+2. Cliquez sur **Settings** (l'icône en forme d'engrenage).
+3. Ouvrez l'onglet **Usage & Billing**.
 
-### 🚀 Step 3: Select the Plan
-1. Locate the **Starter Plan** (priced at $24/month).
-2. Click the green **Upgrade** button under that specific plan.
+### 🚀 Étape 3 : Sélectionner le Forfait
+1. Repérez le **Starter Plan** (au prix de 24 $/mois).
+2. Cliquez sur le bouton vert **Upgrade** situé sous ce forfait spécifique.
 
-### 💳 Step 4: Secure PayPal Checkout
-1. On the secure checkout screen, review the total.
-2. Choose **PayPal** from the available payment methods.
-3. A secure pop-up will appear allowing you to log into your personal PayPal account and authorize the transaction independently.
-
-*Let me know once the transaction is complete! The server will instantly upgrade, and I will finalize the WhatsApp Business API integration.*
+### 💳 Étape 4 : Paiement Sécurisé via PayPal
+1. Sur l'écran de paiement sécurisé, vérifiez le total.
+2. Choisissez **PayPal** parmi les méthodes de paiement disponibles.
+3. Une fenêtre contextuelle sécurisée apparaîtra, vous permettant de vous connecter à votre compte PayPal personnel et d'autoriser la transaction de manière indépendante.
