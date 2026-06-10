@@ -6,8 +6,8 @@ Here is the secure procedure to activate the automation server that will handle 
 1. Open your web browser on your computer.
 2. Go to the official cloud platform: **[app.n8n.cloud](https://app.n8n.cloud/)**
 3. Log in using the agency's official credentials:
-   * **Email:** `[Insert agency email here]`
-   * **Password:** `[Insert password here]`
+   * **Email:** `xauentours@gmail.com`
+   * **Password:** `salhiXauenTours@2026`
 
 ### ⚙️ Step 2: Navigate to Billing
 1. Once logged in, look at the left-hand sidebar menu.
